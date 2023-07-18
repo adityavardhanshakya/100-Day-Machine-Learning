@@ -35,4 +35,8 @@ X_train, X_test, Y_train, Y_test = train_test_split( X, Y, test_size = 1/4, rand
  ```python
  plt.scatter(X_test , Y_test, color = 'red')
  plt.plot(X_test , regressor.predict(X_test), color ='blue')
- ``` 
+ ```
+![Hours vs Score (Test set)](https://github.com/adityavardhanshakya/100-Day-Machine-Learning/assets/75056596/fe8a7efa-e83f-4b26-9c49-aa0df1af28a2)
+![Hours vs Score (Training set)](https://github.com/adityavardhanshakya/100-Day-Machine-Learning/assets/75056596/17f00525-87f4-4ca7-8efb-7b618853f770)
+
+
