@@ -1,0 +1,17 @@
+﻿experience,test_score(out of 10),interview_score(out of 10),salary($)
+,8,9,50000
+,8,6,45000
+five,6,7,60000
+two,10,10,65000
+seven,9,6,70000
+three,7,10,62000
+ten,,7,72000
+eleven,5,8,80000
+seven,7,3,79400
+,9,7,82600
+ten,5,7,85800
+eleven,,4,89000
+,4,1,92200
+three,5,8,95400
+,9,5,98600
+eleven,7,5,101800
